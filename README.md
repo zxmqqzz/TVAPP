@@ -17,7 +17,7 @@
 | 月光宝盒Max             | 20260119 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/月光宝盒/月光宝盒Max0119.apk) | 🟢    | MAX版是多仓线路源的，默认是宝盒的站源，可以进入设置更换      |
 | 月光宝盒PLUS            | 20250601    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/月光宝盒/月光宝盒PLUS0601.apk) | 🟢    | PLUS版本功能较全，支持点播+直播，内置宝盒没宝数据源          |
 | 宝盒TV                  | 20260926 | [下载](/影视/宝盒TV/README.md) | 🟢    | 基于OK影视二开的内置源影视TV                                 |
-| FongMi影视              | v5.6.8 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/FongMi影视) | 🟢    | 蜂蜜影视，请对照文件夹里版本说明下载                         |
+| FongMi影视              | v5.8.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/FongMi影视) | 🟢    | 蜂蜜影视，请对照文件夹里版本说明下载                         |
 | OK影视                  | v5.1.6 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/OK影视/OK影视-电视版-5.1.6.apk) | 🟢    | 标准版 [安卓5专版下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/OK影视/安卓5专版) |
 | OK影视Pro               | v5.2.1 | [下载](/影视/OK影视/README.md) | 🟢    | 多了在线字幕/弹幕搜索、VLC（电视版）、MPV（手机版），以上功能都需要在Pro版的设置点击关于激活看广告激活Pro功能，介意请用标准版 |
 | 欧歌影视                | v6.1.7      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/欧617.apk) | 🟢    | 集成多种影视资源的免费电视软件，基于影视仓魔改，内置欧歌源，安装即用 |
@@ -47,7 +47,7 @@
 | 隆庭KTV | v3.15.53 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/隆庭KTV3.15.53.2312271744.apk) | 🟢 | 同上都是一个类型的软件，注意如果有让你更新付费切勿相信！ |
 | 时光KTV | v4.15.63 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/时光KTV4.15.63.2401解锁终身会员.apk) | 🟢 | 同上都是一个类型的软件，注意如果有让你更新付费切勿相信！ |
 | 金调KTV | v20260520 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/金调KTV_20260520-去引流.apk) | 🟢 | 同上都是一个类型的软件，去除引流版 |
-| 麦动KTV | v1.2.3 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/麦动-1.2.3.apk) | 🟢 | 开源版的K歌软件，布局和上方类似，不用担心收费弹窗。 |
+| 麦动KTV | v2.1.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/麦动-2.1.1.apk) | 🟢 | 开源版的K歌软件，布局和上方类似，不用担心收费弹窗。 |
 | 观屿TV（VoyaTV） | v0.5.3 | [下载](/电视直播/观屿TV/README.md) | 🟢 | 安卓6.0及以上，电视/盒子/手机自适应 IPTV 播放器，支持 M3U/M3U8/TXT、EPG 节目单和频道收藏；需自备直播源，提供标准版与 NoLauncher 版。 |
 | 我的电视                | v1.3.9.8    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/my-tv-0_1.3.9.8.apk) | 🟢    | 无广无购物的电视直播，央视、卫视、地方频道，带直播源库       |
 | OurTV(我们的电视)       | v3.9.5      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/ourTV_3.9.5.apk) | 🔴    | **开发者收到制裁，已停止转播电视信号**                       |
@@ -65,7 +65,7 @@
 | 宽带直播                | v1.0.18     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/宽带直播_1.0.18.apk) | 🟢    | 大屏直播，简约稳定                                           |
 | 你的电视                | v2.4.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/yourtv_v2.4.1.apk) | 🟢    | 包含网页源+IPTV源可切换。注：最新版本需要在远程配置中，找到“仅用于测试直播源”这一行右侧的新增按钮，点击新增，稍等10-30秒，等待大屏提示完成就可以了 |
 | 云影空蒙 | v3.8.4.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/云影空蒙) | 🟢 | 一款简洁的电视直播TV空壳版软件。 |
-| DongYuTvWeb | v2.1.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/DongYuTvWeb) | 🟢 | webview同类型的直播应用软件，节目资源丰富，包括央视、卫视、地方台。新版已更名为**我的电视** |
+| DongYuTvWeb | v2.1.5 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/DongYuTvWeb) | 🟢 | webview同类型的直播应用软件，节目资源丰富，包括央视、卫视、地方台。新版已更名为**我的电视** |
 | VsTV | v2.5.20 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/VsTV) | 🟢 | VsTV 让你在 智能电视、电视盒子、平板或手机 上收看直播频道 |
 | IKTV                    | v80.3.0     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/IKTV-80.3.0-电视免费k歌.apk) | 🟢    | 最新修复版可用了，切勿更新！如果弹出激活不去管他过几天就又可以用了。 |
 | 小鸡模拟器TV版          | v1.1.8      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/小鸡模拟器TV版v1.1.8永久去升级.apk) | 🔴    | 永久去升级，专为TV电视机设计，支持上万款经典游戏，亲测可运行；超级玛丽、拳皇97、怪物猎人、口袋妖怪……你的童年回忆全在这里。**目前无法下载新游戏** |
@@ -115,7 +115,7 @@
 | 电视屏幕大师 | v2.3.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/电视屏幕大师_2.3.0.apk) | 🟢 | 一款用于电视全面检测屏幕的软件，拥有清晰度测试、灰度测试、色彩测试、坏点测试等功能。 |
 | 欢视助手 | v1.0.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/欢视助手_1.0.0.apk) | 🟢 | 和野草助手一样是一款可以方便用户快捷的在电视端安装应用的应用工具，可以访问：[https://zhushou.huan.tv](https://zhushou.huan.tv) 上传应用，也可以在微信小程序**欢视助手**上传分享。 |
 | PeekPro | v1.5.7 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/PeekPro) | 🟢 | 羊佬最新力作，FM二开，颜控必备，支持弹幕。 |
-| NewBox | v2.0.5 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/NewBox) | 🟢 | 基于黑壳tvbox魔改，支持多仓，支持手机版。 |
+| NewBox | v2.1.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/NewBox) | 🟢 | 基于黑壳tvbox魔改，支持多仓，支持手机版。 |
 | 影视魔改 | v6.4.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视魔改) | 🟢 | 基于FM魔改，支持手机、电视，支持实时语音字幕翻译 |
 | ...updating             |             |                                                              |      |                                                              |
 
@@ -147,32 +147,22 @@
  https://17264.kstore.space/哈基米.png	# 哈基米
  https://www.yingm.cc/dm/dm.json  	# 动漫城接口
  http://home.jundie.top:81/top98.json	# 俊佬接口
- http://cdn.qiaoji8.com/tvbox.json		# 巧记
- http://ok213.top/tv		# OK影视内部接口 暂时不可用
- http://ok213.top/ok		# OK影视公开接口 暂时不可用
  https://cdn.gitmirror.com/bb/xduo/libs/master/index.json 	# 道长接口
- https://gitee.com/free-kingdom/dc/raw/main/T4.json			# T4接口
  https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json		# 南风接口
  https://tv.菜妮丝.top			# 菜妮丝接口
  https://api.hgyx.vip/hgyx.json		# HG接口
  https://dxawi.github.io/0/0.json	# dxawi
  http://xhztv.top/xhz		# 小盒子单仓
  http://xhztv.top/4k.json		# 小盒子4K
- https://9877.kstore.space/ONE/one.json		# 潇洒接口
  https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json	# 香雅情
- https://bitbucket.org/xduo/duoapi/raw/master/xpg.json		# 小苹果接口
  https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json		# 宝盒VIP
- https://xn--anna-wn6lw489o.v.nxog.top/m/  # 欧歌
  https://www.252035.xyz/z/FongMi.json	# 真心
- http://www.meowtv.vip/tvbox.json	# 喵影视
- http://fmys.top/fmys.json	# 驸马
  https:/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json		# 高天流云
  https://raw.githubusercontent.com/maoystv/6/main/000.json	# 分享
- https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json		# 短剧
+ http://box.ufuzi.com/tv/qq/短剧频道/api.json		# 短剧
  https://raw.githubusercontent.com/chitue/dongliTV/main/api.json	# 东篱线路
- https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/config	# 嗷呜线路
+ https://9763.kstore.vip/aowu.json	# 嗷呜线路
  https://android.lushunming.qzz.io/json/index.json	# L佬线路
- https://gitee.com/cpu-iy/iy/raw/master/%E5%A4%A9%E7%A5%9EIY.json	# 天神IY
  https://pastebin.com/raw/gtbKvnE1	# 苹果CMS资源站
 
 多仓：
@@ -191,8 +181,6 @@
  https://www.iyouhun.com/tv/zb		# 游魂直播源
  https://live.zbds.top/tv/iptv4.txt  # 直播电视IPV4
  https://develop202.github.io/migu_video/interface.txt # 咪咕IPTV
- https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt   # 潇洒AI直播
- https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.m3u   # 潇洒AI直播
  https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u   # IPTV 默认源
  https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u   # IPTV IPv4
  https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u   # IPTV IPv6
@@ -211,7 +199,6 @@
  https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u # 范明明直播源
  https://live.fanmingming.cn/tv/m3u/ipv6.m3u # 范明明直播源国内镜像加速地址
  https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u # YueChan 直播源
- https://gitee.com/xxy002/zhiboyuan/raw/master/dsy # （央视频道、卫视频道、港澳台、数字电视、动漫）
 
 部分 IPv4、部分 IPv6 源：
  https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u # Kimentanm源，有部分IPv6
@@ -221,7 +208,6 @@
 部分海外源：
  https://php.946985.filegear-sg.me/jackTV.m3u # JackTV直播{翻}
  https://iptv-org.github.io/iptv/index.m3u # 海外TV直播{翻}
- https://web.utako.moe/jp.m3u # 日本TV直播{翻}
  https://epg.pw/test_channels.m3u # 中国大陆频道
  https://epg.pw/test_channels_hong_kong.m3u # 中国香港频道
  https://epg.pw/test_channels_macau.m3u # 中国澳门频道
@@ -233,10 +219,10 @@
  https://iptv-org.github.io/iptv/index.m3u # 世界各地免费电视频道
 
 其他直播源：
- https://live.freetv.top/huyayqk.m3u # 虎牙一起看
- https://live.freetv.top/douyuyqk.m3u # 斗鱼一起看
- https://gongdian.top/tv/Mursor/yylunbo.m3u # YY轮播
- https://gongdian.top/tv/Mursor/bililive.m3u # 哔哩哔哩直播源
+ https://sub.ottiptv.cc/huyayqk.m3u # 虎牙一起看
+ https://sub.ottiptv.cc/douyuyqk.m3u # 斗鱼一起看
+ https://sub.ottiptv.cc/yylunbo.m3u # YY轮播
+ https://sub.ottiptv.cc/bililive.m3u # 哔哩哔哩直播源
 ```
 
 ## 免责声明
